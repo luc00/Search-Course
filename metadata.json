@@ -1,0 +1,10 @@
+{
+  "name": "SearchCourse",
+  "description": "Un motore di ricerca intelligente per trovare, confrontare e iniziare direttamente i migliori corsi al mondo con Google Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
